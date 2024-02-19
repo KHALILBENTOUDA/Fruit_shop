@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13b5ed2c.css",
+    "main.js": "/static/js/main.00715721.js",
+    "static/media/Cairo-VariableFont_slnt,wght.ttf": "/static/media/Cairo-VariableFont_slnt,wght.d81d523f9c7c313cc438.ttf",
+    "static/media/WhatsApp_Image_2023-01-25_at_6.22.59_PM-removebg-preview.png": "/static/media/WhatsApp_Image_2023-01-25_at_6.22.59_PM-removebg-preview.570bea86d6ac43126114.png",
+    "static/media/Shrikhand-Regular.ttf": "/static/media/Shrikhand-Regular.5ff5e889191a6c359fa4.ttf",
+    "static/media/WhatsApp_Image_2023-01-25_at_6.22.59_PM__1_-removebg-preview.png": "/static/media/WhatsApp_Image_2023-01-25_at_6.22.59_PM__1_-removebg-preview.3e697dd2820f05558927.png",
+    "static/media/WhatsApp_Image_2023-01-25_at_6.29.56_PM__3_-removebg-preview.png": "/static/media/WhatsApp_Image_2023-01-25_at_6.29.56_PM__3_-removebg-preview.c2fa5add2d0176c88462.png",
+    "static/media/p1.png": "/static/media/p1.68cd34da76f019e9f4db.png",
+    "static/media/WhatsApp Image 2023-01-25 at 6.22.59 PM.jpeg": "/static/media/WhatsApp Image 2023-01-25 at 6.22.59 PM.4be37f3ea828488d1fda.jpeg",
+    "static/media/BebasNeue-Regular.ttf": "/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
+    "static/media/Ultra-Regular.ttf": "/static/media/Ultra-Regular.4477576cb388530563cf.ttf",
+    "static/media/3_copy-removebg-preview.png": "/static/media/3_copy-removebg-preview.bc6d212d843913f023cf.png",
+    "static/media/Orbitron-VariableFont_wght.ttf": "/static/media/Orbitron-VariableFont_wght.453377cb91a4554c36ce.ttf",
+    "static/media/FjallaOne-Regular.ttf": "/static/media/FjallaOne-Regular.7e0f78509aa68d2b4dc1.ttf",
+    "static/media/woman-clothes.png": "/static/media/woman-clothes.4eff0811363ebc4ada60.png",
+    "static/media/diamond.png": "/static/media/diamond.abf85ec5e4f2291ff22f.png",
+    "static/media/category.png": "/static/media/category.6689c75b4cf7c8b6b81e.png",
+    "static/media/cotton-polo-shirt.png": "/static/media/cotton-polo-shirt.b324ee378ad5791bbc00.png",
+    "index.html": "/index.html",
+    "main.13b5ed2c.css.map": "/static/css/main.13b5ed2c.css.map",
+    "main.00715721.js.map": "/static/js/main.00715721.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13b5ed2c.css",
+    "static/js/main.00715721.js"
+  ]
+}
